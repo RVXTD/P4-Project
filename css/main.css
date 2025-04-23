@@ -1,0 +1,72 @@
+
+.navbar-brand {
+    font: bold 14px/1.5 "Helvetic", Helvetica, Arial;
+}
+.jumbotron-fluid
+{
+    background: whitesmoke;
+}
+.jumbotron-fluid img {
+    max-width: 100%;
+    margin: auto;
+    align-content: center;
+}
+.lead{
+    position: static;
+    align-content: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+}
+.container h3 {
+    text-align: center;
+}
+.contact_links
+{
+    line-break: auto;
+}
+.page-header h1
+{
+    text-align: center;
+}
+
+.scrollbox-n{
+    width: 40%;
+    height: 600px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    white-space: nowrap;
+}
+.scrollbox-m{
+    width: 40%;
+    height: 600px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    white-space: nowrap;
+    object-position: right;
+}
+.newsheader{
+    text-align: left;
+    margin-left: 20%;
+}
+.main-content{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+/*DEVELOPER: Noah Gibb, IS117-102, Spring 2025 */
